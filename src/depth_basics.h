@@ -1,4 +1,8 @@
-﻿#ifndef KINECT_PATIENTS_OBSERVER_DEPTH_BASICS_H_
+﻿//-----------------------------------------------------------------------------
+// Copyright (c) 2016 Hirotaka Nagashima. All rights reserved.
+//-----------------------------------------------------------------------------
+
+#ifndef KINECT_PATIENTS_OBSERVER_DEPTH_BASICS_H_
 #define KINECT_PATIENTS_OBSERVER_DEPTH_BASICS_H_
 
 class ImageRenderer;

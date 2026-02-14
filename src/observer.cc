@@ -1,4 +1,8 @@
-﻿#include "observer.h"
+﻿//-----------------------------------------------------------------------------
+// Copyright (c) 2016 Hirotaka Nagashima. All rights reserved.
+//-----------------------------------------------------------------------------
+
+#include "observer.h"
 #define _USE_MATH_DEFINES  // M_PI
 #include <math.h>          // M_PI
 #include <queue>

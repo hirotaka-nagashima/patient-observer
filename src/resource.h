@@ -1,6 +1,6 @@
 //{{NO_DEPENDENCIES}}
-// Microsoft Visual C++ で生成されたインクルード ファイル。
-// depth_basics.rc で使用
+// Microsoft Visual C++ generated include file.
+// Used by depth_basics.rc
 //
 #define IDI_APP                         100
 #define IDD_APP                         100

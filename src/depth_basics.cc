@@ -1,4 +1,8 @@
-﻿#include "depth_basics.h"
+﻿//-----------------------------------------------------------------------------
+// Copyright (c) 2016 Hirotaka Nagashima. All rights reserved.
+//-----------------------------------------------------------------------------
+
+#include "depth_basics.h"
 #include <strsafe.h>
 #include "resource.h"
 #include "image_renderer.h"

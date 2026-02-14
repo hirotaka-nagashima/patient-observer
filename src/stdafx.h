@@ -1,4 +1,8 @@
-﻿#ifndef KINECT_PATIENTS_OBSERVER_STDAFX_H_
+﻿//-----------------------------------------------------------------------------
+// Copyright (c) 2016 Hirotaka Nagashima. All rights reserved.
+//-----------------------------------------------------------------------------
+
+#ifndef KINECT_PATIENTS_OBSERVER_STDAFX_H_
 #define KINECT_PATIENTS_OBSERVER_STDAFX_H_
 
 // Exclude rarely-used stuff from Windows headers.

@@ -1,4 +1,8 @@
-﻿#include "image_renderer.h"
+﻿//-----------------------------------------------------------------------------
+// Copyright (c) 2016 Hirotaka Nagashima. All rights reserved.
+//-----------------------------------------------------------------------------
+
+#include "image_renderer.h"
 #include "observer.h"
 
 const FLOAT ImageRenderer::cStrokeWidth = 1.5F;

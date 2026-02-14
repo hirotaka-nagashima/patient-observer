@@ -1,4 +1,8 @@
-﻿#include "kinect_option.h"
+﻿//-----------------------------------------------------------------------------
+// Copyright (c) 2016 Hirotaka Nagashima. All rights reserved.
+//-----------------------------------------------------------------------------
+
+#include "kinect_option.h"
 #define _USE_MATH_DEFINES  // M_PI
 #include <math.h>          // sqrt(), tan()
 #include <cfloat>          // DBL_MAX
