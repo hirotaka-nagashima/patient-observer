@@ -2,8 +2,8 @@
 // Copyright (c) 2016 Hirotaka Nagashima. All rights reserved.
 //-----------------------------------------------------------------------------
 
-#ifndef KINECT_PATIENTS_OBSERVER_VECTOR_H_
-#define KINECT_PATIENTS_OBSERVER_VECTOR_H_
+#ifndef PATIENT_OBSERVER_VECTOR_H_
+#define PATIENT_OBSERVER_VECTOR_H_
 
 /// <summary>
 /// Basically 3D vector but can be used as 2D with care.
@@ -27,4 +27,4 @@ struct Vector {
   double z;
 };
 
-#endif  // KINECT_PATIENTS_OBSERVER_VECTOR_H_
+#endif  // PATIENT_OBSERVER_VECTOR_H_

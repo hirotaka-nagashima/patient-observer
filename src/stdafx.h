@@ -2,8 +2,8 @@
 // Copyright (c) 2016 Hirotaka Nagashima. All rights reserved.
 //-----------------------------------------------------------------------------
 
-#ifndef KINECT_PATIENTS_OBSERVER_STDAFX_H_
-#define KINECT_PATIENTS_OBSERVER_STDAFX_H_
+#ifndef PATIENT_OBSERVER_STDAFX_H_
+#define PATIENT_OBSERVER_STDAFX_H_
 
 // Exclude rarely-used stuff from Windows headers.
 #ifndef WIN32_LEAN_AND_MEAN
@@ -38,4 +38,4 @@ inline void SafeRelease(Interface *&pInterfaceToRelease) {
   }
 }
 
-#endif  // KINECT_PATIENTS_OBSERVER_STDAFX_H_
+#endif  // PATIENT_OBSERVER_STDAFX_H_

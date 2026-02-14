@@ -2,8 +2,8 @@
 // Copyright (c) 2016 Hirotaka Nagashima. All rights reserved.
 //-----------------------------------------------------------------------------
 
-#ifndef KINECT_PATIENTS_OBSERVER_DEPTH_BASICS_H_
-#define KINECT_PATIENTS_OBSERVER_DEPTH_BASICS_H_
+#ifndef PATIENT_OBSERVER_DEPTH_BASICS_H_
+#define PATIENT_OBSERVER_DEPTH_BASICS_H_
 
 class ImageRenderer;
 class Observer;
@@ -85,4 +85,4 @@ private:
   Observer *m_pObserver;
 };
 
-#endif  // KINECT_PATIENTS_OBSERVER_DEPTH_BASICS_H_
+#endif  // PATIENT_OBSERVER_DEPTH_BASICS_H_
